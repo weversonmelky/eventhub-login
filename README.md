@@ -1,34 +1,30 @@
+# Página de Login do EventHub
 
-<h1>Login | EventHub</h1>
-Description
-This is a front-end project where a login page layout is built for EventHub.
+## Descrição
+Este projeto consiste no desenvolvimento front-end de uma página de login para o EventHub.
 
-<h3>Usage</h3>
-You can access the login page layout here.
+## Uso
+Para acessar o layout da página de login, clique [aqui](https://weversonmelky.github.io/eventhub-login/).
 
-<h3>License</h3>
-This project is licensed under the MIT License.
+## Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-<h3>Credits</h3>
-<h4>Fonts:</h4>
-<ul>
-    <li>Epilogue</li>
-    <li>Mulish</li>
-    <li>Poppins</li>
-    <li>Source Serif 4</li>
-    <li>Staatliches</li>
-</ul>
-<h3>Images:</h3>
-<ul>
-    <li>EventHub Logo</li>
-    <li>Background image for the login page</li>
-</ul>
-Libraries:
-None used in this project
-<h3>Contact</h3>
-If you need support, want to report an issue, or simply have questions, feel free to contact the developer:
+## Créditos
+### Fontes:
+- Mulish
+- Poppins
 
-Name: Weverson Melky <br/>
-[Meu E-mail](weversonmelky@gmail.com) <br/>
-[Meu GitHub](https://github.com/weversonmelky) <br/>
-[Meu Linkedin](https://www.linkedin.com/in/weversonmelky/)
+### Imagens:
+- Logotipo do EventHub
+- Imagem de fundo para a página de login
+
+## Bibliotecas
+Nenhuma biblioteca foi utilizada neste projeto.
+
+## Contato
+Para suporte, relatar bugs ou esclarecer dúvidas, sinta-se à vontade para entrar em contato com o desenvolvedor:
+
+**Nome:** Weverson Melky  
+**E-mail:** [weversonmelky@gmail.com](mailto:weversonmelky@gmail.com)  
+**GitHub:** [weversonmelky](https://github.com/weversonmelky)  
+**LinkedIn:** [Weverson Melky](https://www.linkedin.com/in/weversonmelky/)
